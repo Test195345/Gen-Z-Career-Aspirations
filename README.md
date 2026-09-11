@@ -13,7 +13,7 @@ The goal is to transform survey data into clear, actionable business insights th
 | **Microsoft Excel** | Exploratory analysis, PivotTables and visualizations |
 | **Power Query** | Data cleaning and transformation |
 | **Power BI** | Interactive stakeholder dashboards |
-| **PowerPoint** | Stakeholder presentation |
+
 ## 🔄 Project Methodology
 
 ### **Data Collection Process**
