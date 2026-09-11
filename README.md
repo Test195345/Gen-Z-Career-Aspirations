@@ -23,6 +23,7 @@ The goal is to transform survey data into clear, actionable business insights th
 * Collected voluntary responses from participants
 * Exported the responses for data cleaning and analysis
 
+![image alt](https://github.com/Test195345/Gen-Z-Career-Aspirations/blob/f115f346bdc88ae2aba3d2523c60856f9c71c544/Screenshot%202026-09-08%20145518.png)
 
 ### 2. Data Preparation
 - Standardized column headers
